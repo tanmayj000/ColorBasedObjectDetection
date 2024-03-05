@@ -21,5 +21,3 @@ To invoke the program, we will compile it and run it at the command line as
 YourProgram.exe InputImage.rgb object1.rgb object2.rgb .... objectn.rgb
 ```
 
-
-where the number of objects (objectn.rgb) may vary between 1 to n. Here is an example data set of the input image and library images with an expected output.
