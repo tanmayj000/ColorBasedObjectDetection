@@ -5,7 +5,7 @@
 // Two images are displayed on the screen.
 // Left Pane: Input Image, Right Pane: Modified Image
 //
-// Author - Parag Havaldar
+// Author - 
 // Code used by students as a starter code to display and modify images
 //
 //*****************************************************************************
